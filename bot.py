@@ -5,7 +5,7 @@ from telegram.ext import (
     CallbackQueryHandler, ContextTypes,
 )
 
-TOKEN = os.environ["8869572085:AAFRpHjbTRGWlvWiZ808KiD-Ov5q8BrshtQ"]
+TOKEN = os.environ["BOT_TOKEN"]
 
 
 def main_menu():
